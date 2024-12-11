@@ -1,0 +1,30 @@
+/* This is a comment in CSS */
+
+/* Styling the body */
+body {
+    background-color: #f0f0f0; /* Light gray background */
+    font-family: Arial, sans-serif; /* Set font */
+}
+
+/* Styling all paragraphs */
+p {
+    color: blue; /* Set text color to blue */
+    font-size: 16px; /* Set font size */
+}
+
+/* Styling a specific class */
+.my-class {
+    background-color: yellow; /* Set background to yellow */
+    padding: 10px; /* Add padding */
+}
+
+/* Styling a specific ID */
+#my-id {
+    color: red; /* Set text color to red */
+    font-weight: bold; /* Make the text bold */
+}
+
+/* Hover effect for links */
+a:hover {
+    color: green; /* Change link color when hovered */
+}
